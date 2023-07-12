@@ -6,10 +6,6 @@
     "keywords": ["Namecheap", "api", "namecheap SDK", "namecheap php"],
     "authors": [
         {
-            "name": "Saddam Hossain",
-            "email": "saddamrhossain@gmail.com"
-        },
-        {
             "name": "Fresent LLC",
             "email": "contact@fresent.com"
         }
