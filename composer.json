@@ -1,5 +1,5 @@
 {
-    "name": "naturalbuild/namecheap-sdk",
+    "name": "fresent/namecheap-sdk",
     "description": "SDK library for Namecheap APIs",
     "type": "library",
     "license": "MIT",
@@ -8,6 +8,10 @@
         {
             "name": "Saddam Hossain",
             "email": "saddamrhossain@gmail.com"
+        },
+        {
+            "name": "Fresent LLC",
+            "email": "contact@fresent.com"
         }
     ],
     "autoload": {
