@@ -129,5 +129,5 @@ composer.phar update
 
 | Version | Status     | Packagist           | Namespace    | Repo                | Docs                | PSR-7 | PHP Version |
 |---------|------------|---------------------|--------------|---------------------|---------------------|-------|-------------|
-| 1.x     | ---        | `saddamrhossain/namecheap-sdk`     | `Namecheap`     | - | - | No    | >= 5.6    |
-| 1.0.5     | ---        | `fresent/namecheap-sdk`     | `Namecheap`     | - | - | No    | >= 5.6    |
+| x.x     | ---        | `saddamrhossain/namecheap-sdk`     | `Namecheap`     | - | - | No    | >= 5.6    |
+| 1.0.0     | ---        | `fresent/namecheap-sdk`     | `Namecheap`     | - | - | No    | >= 5.6    |
